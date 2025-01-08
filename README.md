@@ -1,1 +1,2 @@
 # MC-D_Market_segmentation
+## This repository demonstrates how to perform market segmentation using both KMeans and Gaussian Mixture Models (GMM). After clustering, we use regression analysis for further segment evaluation, profiling, and identifying target segments based on various features. This approach provides valuable insights into customer behavior for better decision-making and targeted marketing.
